@@ -1,10 +1,6 @@
 team: A
 
-<<<<<<< HEAD
 manager: conflict1_dongguk_m
-=======
-manager: MANAGER_A
->>>>>>> b08164f (Edit team_a, team_c, team_e)
 
 coach: caps_a
 

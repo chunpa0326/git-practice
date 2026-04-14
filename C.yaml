@@ -1,8 +1,8 @@
 team : C
 
-manager: conflict2_dongguk_c
+manager: manager_c
 
-coach: caps_c
+coach: coach_c
 
 members:
 - m1
